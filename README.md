@@ -18,7 +18,7 @@ To install and run this Shiny app:
 1. Clone this repository.
 2. Open RStudio.
 3. Set your working directory to the location of the cloned repository.
-4. Install the required R packages using the following commands in R console:
+4. Install the required R packages and run the app.
 
 
 ## Data
@@ -31,7 +31,6 @@ The dataset is available at [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?p
 - Name: Kamal Akbari
 - Email: kamalakbari77@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kamalakbari/
-- Website: www.kakbari.com
 
 ## License
 
